@@ -1,0 +1,32 @@
+c:\users\tishk\documents\visual studio 2015\Projects\3ShapeTestProject\3ShapeTestProject\bin\Debug\3ShapeTestProject.exe.config
+c:\users\tishk\documents\visual studio 2015\Projects\3ShapeTestProject\3ShapeTestProject\obj\Debug\MainWindow.baml
+c:\users\tishk\documents\visual studio 2015\Projects\3ShapeTestProject\3ShapeTestProject\obj\Debug\MainWindow.g.cs
+c:\users\tishk\documents\visual studio 2015\Projects\3ShapeTestProject\3ShapeTestProject\obj\Debug\App.g.cs
+c:\users\tishk\documents\visual studio 2015\Projects\3ShapeTestProject\3ShapeTestProject\obj\Debug\3ShapeTestProject_MarkupCompile.cache
+c:\users\tishk\documents\visual studio 2015\Projects\3ShapeTestProject\3ShapeTestProject\obj\Debug\3ShapeTestProject.exe
+c:\users\tishk\documents\visual studio 2015\Projects\3ShapeTestProject\3ShapeTestProject\obj\Debug\3ShapeTestProject.pdb
+c:\users\tishk\documents\visual studio 2015\Projects\3ShapeTestProject\3ShapeTestProject\bin\Debug\3ShapeTestProject.exe
+c:\users\tishk\documents\visual studio 2015\Projects\3ShapeTestProject\3ShapeTestProject\bin\Debug\3ShapeTestProject.pdb
+c:\users\tishk\documents\visual studio 2015\Projects\3ShapeTestProject\3ShapeTestProject\bin\Debug\3ShapeTestProject.exe.CodeAnalysisLog.xml
+c:\users\tishk\documents\visual studio 2015\Projects\3ShapeTestProject\3ShapeTestProject\bin\Debug\3ShapeTestProject.exe.lastcodeanalysissucceeded
+c:\users\tishk\documents\visual studio 2015\Projects\3ShapeTestProject\3ShapeTestProject\bin\Debug\GalaSoft.MvvmLight.dll
+c:\users\tishk\documents\visual studio 2015\Projects\3ShapeTestProject\3ShapeTestProject\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+c:\users\tishk\documents\visual studio 2015\Projects\3ShapeTestProject\3ShapeTestProject\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+c:\users\tishk\documents\visual studio 2015\Projects\3ShapeTestProject\3ShapeTestProject\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\tishk\documents\visual studio 2015\Projects\3ShapeTestProject\3ShapeTestProject\bin\Debug\System.Windows.Interactivity.dll
+c:\users\tishk\documents\visual studio 2015\Projects\3ShapeTestProject\3ShapeTestProject\bin\Debug\GalaSoft.MvvmLight.pdb
+c:\users\tishk\documents\visual studio 2015\Projects\3ShapeTestProject\3ShapeTestProject\bin\Debug\GalaSoft.MvvmLight.xml
+c:\users\tishk\documents\visual studio 2015\Projects\3ShapeTestProject\3ShapeTestProject\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+c:\users\tishk\documents\visual studio 2015\Projects\3ShapeTestProject\3ShapeTestProject\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+c:\users\tishk\documents\visual studio 2015\Projects\3ShapeTestProject\3ShapeTestProject\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+c:\users\tishk\documents\visual studio 2015\Projects\3ShapeTestProject\3ShapeTestProject\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+c:\users\tishk\documents\visual studio 2015\Projects\3ShapeTestProject\3ShapeTestProject\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\users\tishk\documents\visual studio 2015\Projects\3ShapeTestProject\3ShapeTestProject\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\users\tishk\documents\visual studio 2015\Projects\3ShapeTestProject\3ShapeTestProject\obj\Debug\3ShapeTestProject.g.resources
+c:\users\tishk\documents\visual studio 2015\Projects\3ShapeTestProject\3ShapeTestProject\obj\Debug\_3ShapeTestProject.Properties.Resources.resources
+c:\users\tishk\documents\visual studio 2015\Projects\3ShapeTestProject\3ShapeTestProject\obj\Debug\3ShapeTestProject.csproj.GenerateResource.Cache
+C:\Users\tishk\Documents\Visual Studio 2015\Projects\3ShapeTestProject\3ShapeTestProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tishk\Documents\Visual Studio 2015\Projects\3ShapeTestProject\3ShapeTestProject\obj\Debug\3ShapeTestProject_MarkupCompile.lref
+C:\Users\tishk\Source\Repos\3ShapeTestProject\3ShapeTestProject\bin\Debug\3ShapeTestProject.exe.config
+C:\Users\tishk\Source\Repos\3ShapeTestProject\3ShapeTestProject\obj\Debug\3ShapeTestProject.exe
+C:\Users\tishk\Source\Repos\3ShapeTestProject\3ShapeTestProject\obj\Debug\3ShapeTestProject.pdb
